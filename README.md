@@ -1,1 +1,1 @@
-# threejs-journey
+# threejs-practice
